@@ -39,6 +39,13 @@ The dataset contains:
 5. Sleep heart rate analysis
 6. Multi-day activity–physiology relationships
 
+## Repository structure
+
+notebooks/ – analysis notebooks  
+src/ – helper functions  
+figures/ – generated plots  
+data/ – dataset (not included in repo)
+
 ## Tools
 
 - Python
@@ -46,3 +53,4 @@ The dataset contains:
 - numpy
 - scikit-learn
 - matplotlib/seaborn
+
